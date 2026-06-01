@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/msg_id1.h</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/ecu1sensor.h</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/adc.h</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/uart.h</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/can.c</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/ecu1_main.c</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/adc.c</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/can.h</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/uart.c</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/clcd.h</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/digital_keypad.c</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/digital_keypad.h</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/ecu1_sensor.c</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/micro%20Controller/CAN-car_model1.X/clcd.c</file>
+        </group>
+    </open-files>
+</project-private>
